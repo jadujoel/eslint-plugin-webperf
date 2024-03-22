@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-webperf",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./lib/index.cjs",
   "author": "joel.lof@icloud.com",
   "license": "MIT",
