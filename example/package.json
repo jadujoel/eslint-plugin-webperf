@@ -1,0 +1,20 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "oxlint && eslint .",
+    "fix": "oxlint --fix"
+  },
+  "keywords": [],
+  "author": "joel.lof@icloud.com",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "8.57.0",
+    "eslint-plugin-oxlint": "0.2.7",
+    "eslint-plugin-webperf": "file:../",
+    "oxlint": "0.2.14"
+  }
+}
