@@ -16,5 +16,9 @@
     "eslint-plugin-oxlint": "0.2.7",
     "eslint-plugin-webperf": "file:../",
     "oxlint": "0.2.14"
-  }
+  },
+  "files": [
+    "lib",
+    "example"
+  ]
 }
